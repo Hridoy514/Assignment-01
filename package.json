@@ -4,7 +4,7 @@
   "description": "",
   "main": "hello.js",
   "scripts": {
-    "build": "vite build"
+    "start": "vite"
   },
   "keywords": [],
   "author": "",
